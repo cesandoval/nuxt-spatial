@@ -2,14 +2,14 @@
 useHead({
   script: [
     {
-      src: "https://cdn.tailwindcss.com",
+      src: 'https://cdn.tailwindcss.com',
     },
   ],
-});
+})
 </script>
 
 <template>
   <div>
-    <NuxtWelcome />
+    <NuxtPage />
   </div>
 </template>
